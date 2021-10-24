@@ -5,6 +5,6 @@
 #        Subdirección Académica
 # Departamento de Sistemas y Computación
 ##  Ingeniería en Sistemas Computacionales
-##        LENGUAJES DE INTERFAZ
+##        FUNDAMENTOS DE SOFTWARE
 ##   Profesor: REYNALDO ANDRES SALAS CARMONA
 ##     Semestre sep - ene 2021
